@@ -1,6 +1,8 @@
 backup of [https://github.com/shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)  
 copy from [release 2.8.2](https://github.com/shadowsocks/shadowsocks/releases/tag/2.8.2)
 
+Origin Link: [shadowsocks](https://github.com/shadowsocks/shadowsocks/wiki/Ports-and-Clients#linux--server-side)
+
 shadowsocks
 ===========
 
